@@ -59,5 +59,5 @@ Happy coding! 🚀
 
 ### :fire: My Stats :
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=igeorgemichael&" alt="igeorgemichael" border_radius=5.7 width=300/>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=igeorgemichael&show_icons=true&locale=en" alt="igeorgemichael" width=300 border_radius=5.7/></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=igeorgemichael&" alt="igeorgemichael" border_radius=10 width=350/>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=igeorgemichael&show_icons=true&locale=en" alt="igeorgemichael" width=350 border_radius=10/></p>
