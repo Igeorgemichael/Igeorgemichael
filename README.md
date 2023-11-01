@@ -31,11 +31,12 @@ Happy coding! 🚀
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm studying at AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/programs/cloud-engineering) Class of 2023.
+- 💡 Fact: I'm studying at AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/programs/cloud-engineering) Class of 2023.
 - 🌱 I’m currently learning Cloud Engineering.
 - 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Cloud Engineering (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing **mykaelgeorge@gmail.com**.
+- ⚡ Fun fact **when I'm not coding, I am Cooking, playing Tennis or Seeing animation :)**
 
 ---
 
