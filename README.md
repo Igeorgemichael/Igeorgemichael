@@ -15,7 +15,7 @@
 ---
 
 
-I am **Michael George**, a passionate Cloud Engineer newbie with a thirst for knowledge
+I am **Michael George**, a passionate Cloud Engineer student with a thirst for knowledge
 
 
 I'm a student at **Alt-school Africa** I'm currently, specializing in Cloud Engineering. My fascination with the cloud stems from its ability to revolutionize the way we build, deploy, and scale applications. I am excited to be part of this dynamic field, where innovation and continuous learning are the norms.
@@ -54,7 +54,6 @@ Happy coding! 🚀
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" **alt="Apache" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" **alt="mysql" width="40" height="40"/>
 </div>
 
