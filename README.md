@@ -43,54 +43,58 @@ Happy coding! 🚀
 
 #### :hammer_and_wrench: Languages and Tools :
 <div align="center">
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  </a>
+ 
+  <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  </a>
+  
+  <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   </a> 
  
-  <a href="https://www.ansible.com/overview/it-automation/" target="_blank">
+  <a href="https://www.ansible.com/overview/it-automation/" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible" alt="Ansible" width="40 
 height="40"/>
-</a>
+  </a>
 
-<a href="https://www.debian.org/intro/why_debian" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian" alt="Debian" width="40" height="40" />
-</a>
+  <a href="https://www.debian.org/intro/why_debian" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian" alt="Debian" width="40" height="40" />
+  </a>
    
-<a href="https://fedoraproject.org/workstation/" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" width="40" height="40"/>
-</a>
+  <a href="https://fedoraproject.org/workstation/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" width="40" height="40"/>
+  </a>
    
-<a href="https://www.redhat.com/en/topics/linux/what-is-linux" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-</a>
+  <a href="https://www.redhat.com/en/topics/linux/what-is-linux" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+  </a>
 
   <a href="https://ubuntu.com/desktop" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
-</a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
+  </a>
 
 
   <a href="https://code.visualstudio.com/docs" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40 height="40"/>
-</a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40 height="40"/>
+  </a>
 
 
   <a href="https://httpd.apache.org/ABOUT_APACHE.html" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/>
-</a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/>
+  </a>
 
 
- <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40" />
-</a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
+  </a>
 
-<a href="https://www.postgresql.org" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>
-</a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>
+  </a>
 
   
 </div>
