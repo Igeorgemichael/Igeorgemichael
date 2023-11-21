@@ -114,9 +114,8 @@ height="40"/>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=igeorgemichael&show_icons=true&locale=en" alt="igeorgemichael" width=360 style="border-radius: 10px; border: 2px solid #ddd;"/></p>
 
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Igeorgemichael&layout=compact&hide=html,css&langs_count=8)](https://github.com/Igeorgemichael/github-readme-stats)
 
-[GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Igeorgemichael)
+<p>&nbsp;<img align="bottom" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Igeorgemichael&show_icons=true&locale=en" alt="igeorgemichael" width=360 style="border-radius: 10px; border: 2px solid #ddd;"/></p>
 
 [Hit Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{igeorgemichael}1212%2Fhit-counter)
 
