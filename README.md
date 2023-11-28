@@ -114,12 +114,13 @@ height="40"/>
 
 ### :fire: My Stats :
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=igeorgemichael&" alt="igeorgemichael" style="border-radius: 10px; width: 360px;"/>
+<!-- SOCIAL ICONS: END -->
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igeorgemichael&show_icons=true&locale=en" alt="igeorgemichael" width=360 style="border-radius: 10px; border: 5px solid #ddd;"/></p>
+|   |   |   |
+| --- | --- | --- |
+| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igeorgemichael" alt="igeorgemichael" style="border-radius: 10px; width: 360px;"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igeorgemichael&show_icons=true&locale=en" alt="igeorgemichael" style="border-radius: 10px; border: 5px solid #ddd; width: 360px;"/> | <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Igeorgemichael&show_icons=true&locale=en" alt="igeorgemichael" width=360 style="border-radius: 10px; border: 5px solid #ddd;"/></p>
 
-
-<p>&nbsp;<img align="bottom-left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Igeorgemichael&show_icons=true&locale=en" alt="igeorgemichael" width=360 style="border-radius: 10px; border: 5px solid #ddd;"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igeorgemichael&show_icons=true&locale=en" alt="igeorgemichael" width=360 style="border-radius: 10px; border: 2px solid #ddd;"/></p>
+|   |
+| --- |
+|<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igeorgemichael&show_icons=true&locale=en" alt="igeorgemichael" width=360 style="border-radius: 10px; border: 2px solid #ddd;"/></p> | 
 
