@@ -24,9 +24,6 @@
 ---
 
 
-I am **Michael George**, a passionate Cloud Engineer student with a thirst for knowledge
-
-
 I'm a student at **Alt-school Africa** I'm currently, specializing in Cloud Engineering. My fascination with the cloud stems from its ability to revolutionize the way we build, deploy, and scale applications. I am excited to be part of this dynamic field, where innovation and continuous learning are the norms.
 
 I'm Open to Collaboration!
