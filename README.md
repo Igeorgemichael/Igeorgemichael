@@ -47,7 +47,8 @@ Happy coding! 🚀
 ---
 
 
-#### :hammer_and_wrench: Languages and Tools :
+#### :hammer_and_wrench: Languages and Tools
+
 <div align="center">
 
   <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank" rel="noopener noreferrer">
@@ -114,7 +115,7 @@ height="40"/>
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats
 
 <!-- SOCIAL ICONS: END -->
 
